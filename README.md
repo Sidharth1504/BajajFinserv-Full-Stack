@@ -1,0 +1,2 @@
+# BajajFinserv
+This is a REST API built with Node.js and Express that processes an input array and returns categorized data as per the Bajaj Finserv Challenge. The API accepts a POST request with an array of strings, classifies them into numbers, alphabets, and special characters, and provides additional computed fields like sum of numbers and concatenated alphabets in reverse alternating case.
